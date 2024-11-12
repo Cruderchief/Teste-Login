@@ -102,7 +102,7 @@ transition: all 0.375s;
 }
 
 .login-form > a:hover{
-    color: #10449A;
+    color: #ce0a0a;
 }
 
 @keyframes rotate{
